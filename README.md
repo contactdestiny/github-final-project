@@ -8,6 +8,6 @@ Input:
    t, time period in years<br>
    r, annual rate of interest<br>
    
-Output
+Output:
 
    simple interest = p*t*r
